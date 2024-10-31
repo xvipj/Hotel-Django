@@ -7,6 +7,15 @@ Condiciones de Reserva:
 - El máximo de noches permitidas por reserva es de 5.
 - Si el cliente desea reservar más de 5 noches, el sistema deberá indicarle que contacte directamente al hotel para recibir atención personalizada.
 
+## Requisitos del Formulario de Reserva
+
+El formulario de reserva debe incluir los siguientes campos:
+
+- **Fecha de Entrada**
+- **Fecha de Salida**
+- **Número de Adultos**
+- **Número de Niños**
+
 Este sistema tiene como objetivo facilitar el proceso de reserva, garantizando un registro eficiente de las solicitudes y optimizando la experiencia del cliente.
 
 ![""](soo.png)

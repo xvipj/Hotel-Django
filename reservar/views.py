@@ -1,6 +1,5 @@
 from django.shortcuts import render, redirect
 from .forms import ReservaForm
-from datetime import time
 
 def home(request):
     MAX_NOCHES = 5  # Límite de noches permitido
