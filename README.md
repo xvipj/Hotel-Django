@@ -18,7 +18,7 @@ El formulario de reserva debe incluir los siguientes campos:
 
 Este sistema tiene como objetivo facilitar el proceso de reserva, garantizando un registro eficiente de las solicitudes y optimizando la experiencia del cliente.
 
-![""](soo.png)
+![""](so.png)
 
 👉 **Clonar el proyecto desde el repositorio:**
 
